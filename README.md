@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Coming soon]()
-- Live Site URL: [Coming soon]()
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-YCAxf51gJk](https://www.frontendmentor.io/solutions/results-summary-component-YCAxf51gJk)
+- Live Site URL: [https://josh76543210-fm-results-summary.netlify.app/](https://josh76543210-fm-results-summary.netlify.app/)
 
 ## My process
 
